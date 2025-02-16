@@ -7,7 +7,7 @@ copyright = "© Thomas Monaghan"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-paginate = 4
+pagination.pagerSize = 4
 
 [params]
 # favicon = ""
