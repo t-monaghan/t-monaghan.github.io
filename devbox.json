@@ -1,6 +1,9 @@
 {
-  "$schema":  "https://raw.githubusercontent.com/jetify-com/devbox/0.13.7/.schema/devbox.schema.json",
-  "packages": ["hugo@latest"],
+  "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.13.7/.schema/devbox.schema.json",
+  "packages": [
+    "hugo@latest",
+    "dart-sass@latest"
+  ],
   "shell": {
     "scripts": {
       "hugo": [
