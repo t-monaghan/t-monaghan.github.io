@@ -6,7 +6,7 @@
   ],
   "shell": {
     "scripts": {
-      "hugo": [
+      "dev": [
         "hugo server --buildDrafts"
       ]
     }
