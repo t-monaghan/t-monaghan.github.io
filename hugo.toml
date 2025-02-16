@@ -1,0 +1,50 @@
+baseURL = 'https://t-monaghan.github.io'
+languageCode = 'en-us'
+title = 'Tom Monaghan'
+theme = 'archie'
+
+copyright = "© Thomas Monaghan"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+paginate = 4
+
+[params]
+# favicon = ""
+# og_image = ""
+# mode = "auto"
+mode = "toggle"
+useCDN = true
+subtitle = "On a journey to be less clever and all the wiser"
+description = "Tom Monaghan's blog on software engineering"
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/t-monaghan"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/tfmonaghan/"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+

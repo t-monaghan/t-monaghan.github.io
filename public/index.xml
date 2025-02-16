@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tom Monaghan</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Tom Monaghan</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Thomas Monaghan</copyright>
+    <lastBuildDate>Sun, 16 Feb 2025 15:34:09 +1100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 16 Feb 2025 15:34:09 +1100</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hello and welcome! I&amp;rsquo;m Tom, a coffee pedant who makes his cut by working as a software engineer in a developer experience team. I found my interest in software engineering by completing &lt;a href=&#34;https://pll.harvard.edu/course/cs50-introduction-computer-science&#34;&gt;Harvard&amp;rsquo;s CS50x&lt;/a&gt; during the covid-19 lockdowns in Melbourne. My pedantry with coffee comes from a decade of working in specialty cafes in Melbourne such as &lt;a href=&#34;https://www.theage.com.au/goodfood/melbourne-eating-out/social-enterprise-cafe-sibling-closes-due-to-tough-economy-20230615-p5dgv7.html&#34;&gt;Sibling&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What Comes After Uni?</title>
+      <link>http://localhost:1313/posts/what-comes-after-uni/</link>
+      <pubDate>Sun, 16 Feb 2025 14:41:31 +1100</pubDate>
+      <guid>http://localhost:1313/posts/what-comes-after-uni/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve only got two things to do tonight. Write this, and get my bag ready for the office tomorrow. It&amp;rsquo;s unusual that I head into the office, but a mate&amp;rsquo;s invited me to give a talk at our internal golang meetup.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s nice to look back and realise that I&amp;rsquo;ve grown close to the dozen engineers that will be there, and have become someone who produces work they find interesting and useful. This is all due to an internship I applied for, and the opportunity I was given to grow in the role. A year ago I hadn&amp;rsquo;t so much as witnessed a line of go code, let alone developed my dislike for the mascot.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
