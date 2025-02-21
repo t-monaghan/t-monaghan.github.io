@@ -15,7 +15,7 @@ pagination.pagerSize = 4
 # mode = "auto"
 mode = "toggle"
 useCDN = true
-subtitle = "On a journey to be less clever and all the wiser"
+subtitle = "writes about working with code"
 description = "Tom Monaghan's blog on software engineering"
 
 [[params.social]]
@@ -29,16 +29,11 @@ icon = "linkedin"
 url = "https://www.linkedin.com/in/tfmonaghan/"
 
 [[menu.main]]
-name = "Home"
-url = "/"
+name = "posts"
+url = "/posts"
 weight = 1
 
 [[menu.main]]
-name = "All posts"
-url = "/posts"
-weight = 2
-
-[[menu.main]]
-name = "Me"
+name = "me"
 url = "/me"
-weight = 3
+weight = 2
