@@ -2,8 +2,6 @@
 date : '2025-02-16T14:41:31+11:00'
 title : 'What Comes After Uni?'
 draft : false
-description: |
- I've only got two things to do tonight. Write this, and get my bag ready for the office tomorrow. It's unusual that I head into the office, but a mate's invited me to give a talk at our internal golang meetup. 
 ---
 I've only got two things to do tonight. Write this, and get my bag ready for the office tomorrow. It's unusual that I head into the office, but a mate's invited me to give a talk at our internal golang meetup. 
 
