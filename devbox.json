@@ -1,14 +1,9 @@
 {
   "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.13.7/.schema/devbox.schema.json",
-  "packages": [
-    "hugo@latest",
-    "dart-sass@latest"
-  ],
+  "packages": ["hugo@latest"],
   "shell": {
     "scripts": {
-      "dev": [
-        "hugo server --buildDrafts"
-      ]
+      "dev": ["hugo server --buildDrafts --disableFastRender"]
     }
   }
 }
