@@ -27,3 +27,7 @@ weight = 1
 name = "me"
 url = "/me"
 weight = 2
+
+[privacy.googleAnalytics]
+disable = true
+respectDoNotTrack = true
