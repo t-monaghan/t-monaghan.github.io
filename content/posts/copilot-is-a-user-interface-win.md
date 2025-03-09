@@ -3,9 +3,9 @@ date : '2025-03-08T09:38:05+11:00'
 title : 'Copilot is a user interface win'
 ---
 
-Listening to Dario Amodei talk about AI as a product on the Hard Fork podcast helped foment some questions that have been following me around. I’m keen to use this post to start exploring these thoughts I’ve had around AI product usability, confidence and how the big AI firms provide services.
+Listening to Dario Amodei talk about AI as a product on the Hard Fork podcast helped foment some questions that have been following me around. I’m keen to use this post to start exploring these thoughts I’ve had around AI product usability, confidence and the future of AI service providers.
 
-Here’s the quote that stirred this all up for me:
+Here’s the quote from Dario that stirred this all up for me:
 
 > *“I think one area where the models will be good enough is if you’re just trying to use this as a replacement for Google Search or as a quick information retrieval … but I don’t think those are the interesting uses of the model. And I’m actually not sure a lot of the economic value is there.”*
 
@@ -28,7 +28,7 @@ Thanks for reading, I’d be keen to hear any thoughts you might have on this su
 \
 {{< youtube YhGUSIvsn_Y >}}
 \
-{{< callout text="Post Script: As I was preparing to post this I came across some discussion that resonated with my thoughts on this topic.Original callout." >}}
+{{< callout text="Post Script: As I was preparing to post this I came across some discussion that resonated with my thoughts on this topic." >}}
 
 The discussion started with [this piece written by Thane Ruthenis](https://www.lesswrong.com/posts/tqmQTezvXGFmfSe7f/how-much-are-llms-actually-boosting-real-world-programmer) questioning the impact LLMs have had on real-world programmer productivity, [and a comment in the discussion](https://news.ycombinator.com/item?id=43304384) of this article on Hacker News. Below is a portion of the comment that helped crystallise some of what’s been floating around in my head.
 
