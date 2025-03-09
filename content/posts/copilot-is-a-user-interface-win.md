@@ -23,7 +23,7 @@ I’m curious about the future of the current LLM providers. I’m wondering if 
 
 Could this be the new norm of collaboration between large competing providers? I doubt it. My instinct is that if we don’t see serious product diversification the big players will insulate themselves against the risk of providing the best models to those who challenge their product.
 
-Thanks for reading, I’d be keen to hear any thoughts you might have on this subject. If there’s something you’d like to share you can leave a comment on my LinkedIn post for this piece.
+Thanks for reading, I’d be keen to hear any thoughts you might have on this subject. If there’s something you’d like to share you can leave a comment on [my LinkedIn post for this piece](https://www.linkedin.com/posts/tfmonaghan_copilot-is-a-user-interface-win-activity-7304316665767284737-VdGF/).
 {{< callout type="custom" emoji="🕖" title="Hard Fork Podcast" text="Here is the episode of Hard Fork that contains the quote from above, the question that Kevin Roose asks that prompts this response from Dario occurs at 19 minutes and 10 seconds" style="background-color: transparent; border: 3px dotted#9fe368;" >}}
 \
 {{< youtube YhGUSIvsn_Y >}}
