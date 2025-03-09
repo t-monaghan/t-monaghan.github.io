@@ -12,8 +12,7 @@ pagination.pagerSize = 4
 [params]
 # favicon = ""
 # og_image = ""
-# mode = "auto"
-mode = "toggle"
+mode = "auto"
 useCDN = true
 subtitle = "writes about working with code"
 description = "Tom Monaghan's blog on software engineering"
