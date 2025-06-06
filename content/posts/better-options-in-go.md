@@ -45,7 +45,11 @@ func NewFarmer(...opts func(*FarmerOptions)) *Farmer {
 }
 ```
 
-Now creating a farmer that doesn't collect oranges looks like this `farmer := NewFarmer(DisableOrangeCollection())`.
+Now creating a farmer that doesn't collect oranges looks like this.
+
+```go
+farmer := NewFarmer(DisableOrangeCollection())
+```
 
 But, this is where the simplicity of the example starts to belie the value of this new pattern, and to be fair the pattern is overkill for the logic required by this option. To get a better understanding of the pattern's strengths let's look at a real example from fuego - `OptionAddResponse`.
 
