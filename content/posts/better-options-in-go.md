@@ -3,11 +3,11 @@ title: Better options in Go
 date : '2025-06-06T15:45:12+09:00'
 ---
 
-Recently I was updating [fuego](https://github.com/go-fuego/fuego) in a go project and came across a change fuego had made to how you configure a server and I think the pattern provides a compelling argument to stop using structs to define configuration of objects. 
+Recently I was updating [fuego](https://github.com/go-fuego/fuego) in a go project and came across a change fuego had made to how you configure a server and I think the pattern provides a compelling argument to stop using structs to define configuration of objects.
 
 Allow me to start from the beginning.
 
-Say there was a library that defined the object `Farmer` that was designed to collect `Apples`, and to create a new instance of a farmer the library provided the idiomatic go function `func NewFarmer() *Farmer`. 
+Say there was a library that defined the object `Farmer` that was designed to collect `Apples`, and to create a new instance of a farmer the library provided the idiomatic go function `func NewFarmer() *Farmer`.
 
 Down the line let's suppose there's a new release of the farming library and `Farmer` objects can now collect `Oranges`, but just to make sure the older projects that consume the farming library don't go looking for `Oranges` where there aren't any the library wants to introduce an option `OnlyCollectsApples`. Previously to me adopting this pattern my approach to building this would be by defining the `Farmer` instantiation function as `NewFarmer(opts FarmerOptions) *Farmer` and define `FarmerOptions` like below.
 
@@ -92,5 +92,4 @@ func DisableAllDefaultApps() func(*AwtrixConfig) {
 }
 ```
 
-So far I'm enjoying the pattern, and looking forward to seeing how it pans out for me as altar becomes more complex, but I'm keen to hear what you think, please let me know in the comments of my post here: 
-
+So far I'm enjoying the pattern, and looking forward to seeing how it pans out for me as altar becomes more complex, but I'm keen to hear what you think, please let me know in the comments of my post [here](https://www.linkedin.com/posts/tfmonaghan_heres-why-you-should-change-how-you-define-activity-7336684023575924738-0zFi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAwQfcB3RH6QLzemkVqDW_V3q6H51zJDhw)
